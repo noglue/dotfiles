@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/mnt/home/basti/xbmc/.git/logs'
+let g:netrw_dirhist_2='/home/basti/xbmc/xbmc/xbmc'
+let g:netrw_dirhist_3='/home/basti/.vim'
+let g:netrw_dirhist_4='/home/basti/music'
+let g:netrw_dirhist_5='/home/basti/.config'
+let g:netrw_dirhist_6='/media/stor2d/documents/steuer/2014'
+let g:netrw_dirhist_7='/media/stor5d/documents/logs/Digsby Logs/noglue/fbchat/BastiMerk@gmail.com/712487712_fbchat'
