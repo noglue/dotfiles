@@ -16,3 +16,4 @@ setl expandtab
 set list
 colorscheme solarized
 set background=dark
+set incsearch 
