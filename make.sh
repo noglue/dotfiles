@@ -7,7 +7,7 @@
 ########## Variables
 
 dir=~/dotfiles                    # dotfiles directory
-olddir=~/dotfiles_old             # old dotfiles backup directory
+olddir=$dir/dotfiles_old             # old dotfiles backup directory
 files="bashrc  dircolors vim  vimrc"
 ##########
 
